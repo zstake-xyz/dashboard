@@ -34,7 +34,7 @@
       },
       "id": 92,
       "panels": [],
-      "title": "рџ”Ќ Blockchain overview",
+      "title": "Blockchain overview",
       "type": "row"
     },
     {
@@ -55,7 +55,7 @@
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": " ## **Validator Monitoring by ITRocket**\nв­ђ Learn more about our services: [https://itrocket.net/services/testnet/story](https://itrocket.net/services/testnet/story)\n\n![description](https://server-5.itrocket.net/logo/story_dashboard.png)\n",
+        "content": " ",
         "mode": "markdown"
       },
       "pluginVersion": "11.3.1",
